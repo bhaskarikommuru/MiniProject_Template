@@ -5,3 +5,6 @@
 
 # BEHAVIOUR DIAGRAM
 
+![3 (1)](https://user-images.githubusercontent.com/101256661/161201106-374bdc3f-3291-415b-a777-49d7dc1a6b41.png)
+
+
